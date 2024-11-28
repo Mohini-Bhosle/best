@@ -1,0 +1,4 @@
+1.txt
+2.mkdir
+3.sudo
+4.su
